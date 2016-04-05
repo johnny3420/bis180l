@@ -1,0 +1,41 @@
+scale = 4
+a = .2918
+c = .2089
+g = .2086
+t = .2906
+
+aa = a*a
+ac = a*c
+ag = a*g
+at = a*t
+ca = c*a
+cc = c*c
+cg = c*g
+ct = c*t
+ga = g*a
+gc = g*c
+gg = g*g
+gt = g*t
+ta = t*a
+tc = t*c
+tg = t*g
+tt = t*t
+
+aa
+ac
+ag
+at
+ca
+cc
+cg
+ct
+ga
+gc
+gg
+gt
+ta
+tc
+tg
+tt
+
+quit

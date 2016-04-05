@@ -1,0 +1,18 @@
+scale = 4
+a = 947616
+c = 678459
+g = 677562
+t = 943739
+total = a + c + g + t
+
+fa = a/total
+fc = c/total
+fg = g/total
+ft = t/total
+
+fa
+fc
+fg
+ft
+quit
+

@@ -1,0 +1,53 @@
+scale= 4
+aa = 332702 
+ac = 170847
+ag = 176880
+at = 266964
+ca = 218877
+cc = 150051
+cg = 133231
+ct = 176161
+ga = 181941
+gc = 174925
+gg = 149335
+gt = 171155
+ta = 212939
+tc = 181296
+tg = 218661
+tt = 330582
+total = aa + ac + ag + at + ca + cc + cg + ct + ga + gc + gg + gt + ta + tc + tg + tt
+faa = aa/total
+fac = ac/total
+fag = ag/total
+fat = at/total
+fca = ca/total
+fcc = cc/total
+fcg = cg/total
+fct = ct/total
+fga = ga/total
+fgc = gc/total
+fgg = gg/total
+fgt = gt/total
+fta = ta/total
+ftc = tc/total
+ftg = tg/total
+ftt = tt/total
+
+faa
+fac
+fag
+fat
+fca
+fcc
+fcg
+fct
+fga
+fgc
+fgg
+fgt
+fta
+ftc
+ftg
+ftt
+
+quit
