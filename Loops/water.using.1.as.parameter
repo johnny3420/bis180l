@@ -1,0 +1,74 @@
+########################################
+# Program: water
+# Rundate: Thu  7 Apr 2016 16:13:02
+# Commandline: water
+#    [-asequence] at1.fa
+#    [-bsequence] ce1.fa
+#    -gapopen 1
+#    -gapextend 5
+#    -outfile water.using.1.as.parameter
+# Align_format: srspair
+# Report_file: water.using.1.as.parameter
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 
+# 2: 
+# Matrix: EBLOSUM62
+# Gap_penalty: 1.0
+# Extend_penalty: 5.0
+#
+# Length: 457
+# Identity:     123/457 (26.9%)
+# Similarity:   169/457 (37.0%)
+# Gaps:         229/457 (50.1%)
+# Score: 460.0
+# 
+#
+#=======================================
+
+                   1 MVG---G----KK-------KT------KI--C---D----K-VSHE-E-     18
+                     | |   |    ||       ||      ||  |   |    | .|.| | 
+                  68 M-GASRGNLQKKKEWMENHFKTRHVRKAKIFKCLIEDCPVVKSSSQEIET    116
+
+                  19 D-RISQLP-EPLI-SEI-L--FHLSTKDSVR-TSALSTK-W---R-YL-W     55
+                     . |||. | .|   .|  |  |..|| |.:. |.| : : |   . .: |
+                 117 HLRISH-PINP--KKE-RLKEFKSST-DHIEPTQA-N-RVWTIVNGEVQW    159
+
+                  56 QSVPGLDLDPYASSNTNTIVSFVESFFDSHRDSWI-RKLRLDLG-----Y     99
+                     :: |     |.. .. .| |  :  ::|   |.   |.: ...|     |
+                 160 KT-P-----PRV-KK-KT-V--I--YYD---DG--PRYV-FPTGCARCNY    190
+
+                 100 HHDKYD---LMS---WIDAATTRRIQHL-D---VHC-FHD-NK-IPLSIY    136
+                       |. |   |.|   |  :| |   : : |   |:. |.. |  |  |  
+                 191 --DS-DESELESDEFW--SA-T---E-MSDNEEVYVNFRGMN-CI--S--    225
+
+                 137 T--CTTLV-HLRLR-W--AV---L-T--NPEFVSL-PC--L-K--IMHF-    167
+                     |  ..::| ..| | |  .|   | |  |.: .:: |   | |  | .. 
+                 226 TGKSASMVPSKR-RNWPKRVKKRLSTQRNNQ-KTIRP-PELNKNNI-EIK    271
+
+                 168 E-NVSYPN--ETTLQKLISGSPV-LEEL-IL-FSTMYPKGN-V-LQLRSD    209
+                     : | | .|  |...::.|  .|| :|:  || |. .: |.| : : :|.:
+                 272 DMN-S-NNLEERNREECI--QPVSVEK-NILHFE-KF-KSNQICI-VREN    313
+
+                 210 TLK-RLD-I-----N--EFI-DVVI---YA----PLLQ-CLRAKMYSTKN    241
+                     . | | : .     |  | . |:.|   :.    | :: |   |    :|
+                 314 N-KFR-EGTRRRRKNSGE-SEDLKIHENFTEKRRP-IRSC---K----QN    352
+
+                 242 FQIISSGFPAKL--DI-DF-V--NTGGRY-QK-KKVIEDILIDI-S----    278
+                        | | | .::  || :| |  :|     .| |||    |:|| |    
+                 353 ---I-S-F-YEMDGDIEEFEVFFDT----PTKSKKV----LLDIYSAKKM    388
+
+                 279 -R--VRD-LVISSNTWKEFFLYSKSRPLLQFRYISHLNA-RFYI-SDLEM    322
+                      :  |.| ||   |  |  | :|| ||  . |      | | .: | :|.
+                 389 PKIEVEDSLV---N--K--F-HSK-RP--S-R------ACR-VLGS-MEE    418
+
+                 323 LPTL-LE    328
+                     :| . :|
+                 419 VP-FDVE    424
+
+
+#---------------------------------------
+#---------------------------------------

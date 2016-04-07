@@ -1,0 +1,38 @@
+########################################
+# Program: water
+# Rundate: Thu  7 Apr 2016 16:13:02
+# Commandline: water
+#    [-asequence] at1.fa
+#    [-bsequence] ce1.fa
+#    -gapopen 10
+#    -gapextend 5
+#    -outfile water.using.10.as.parameter
+# Align_format: srspair
+# Report_file: water.using.10.as.parameter
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 
+# 2: 
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 27
+# Identity:       7/27 (25.9%)
+# Similarity:    15/27 (55.6%)
+# Gaps:           1/27 ( 3.7%)
+# Score: 37.0
+# 
+#
+#=======================================
+
+                 309 SHLNARFYISDLEMLPTLLESCPKLES    335
+                     :|...| ::...::...|:|.||.::|
+                  84 NHFKTR-HVRKAKIFKCLIEDCPVVKS    109
+
+
+#---------------------------------------
+#---------------------------------------

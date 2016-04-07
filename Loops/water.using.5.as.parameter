@@ -1,0 +1,46 @@
+########################################
+# Program: water
+# Rundate: Thu  7 Apr 2016 16:13:02
+# Commandline: water
+#    [-asequence] at1.fa
+#    [-bsequence] ce1.fa
+#    -gapopen 5
+#    -gapextend 5
+#    -outfile water.using.5.as.parameter
+# Align_format: srspair
+# Report_file: water.using.5.as.parameter
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 
+# 2: 
+# Matrix: EBLOSUM62
+# Gap_penalty: 5.0
+# Extend_penalty: 5.0
+#
+# Length: 146
+# Identity:      32/146 (21.9%)
+# Similarity:    61/146 (41.8%)
+# Gaps:          15/146 (10.3%)
+# Score: 50.0
+# 
+#
+#=======================================
+
+                 162 LKIMHFENVSYPN-ETTLQKLISGSPVLE-ELILFSTM-YPKGNVLQLRS    208
+                     :|.|:..|:...| |..:|.:.....:|. |....:.: ..:.| .:.|.
+                 270 IKDMNSNNLEERNREECIQPVSVEKNILHFEKFKSNQICIVREN-NKFRE    318
+
+                 209 DT-LKRLDINEFIDVVIYAPLLQCLRAKMYSTK-NFQIIS-SGFPAKLDI    255
+                     .| .:|.:..|..|:.|:....: .|..:.|.| |..... .|...:.::
+                 319 GTRRRRKNSGESEDLKIHENFTE-KRRPIRSCKQNISFYEMDGDIEEFEV    367
+
+                 256 DFVNTGGRYQKKKVIEDILIDISRVRDLVISSNTWKEFFLYSKSRP    301
+                      |.:| .. :.|||:.|| ....::..:.:..:...: | :|| ||
+                 368 -FFDT-PT-KSKKVLLDI-YSAKKMPKIEVEDSLVNK-F-HSK-RP    406
+
+
+#---------------------------------------
+#---------------------------------------

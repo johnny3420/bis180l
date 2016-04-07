@@ -1,0 +1,5 @@
+bis180lstudent@bis180lstudent-VirtualBox:~/Loops$ matrixs="EBLOSUM30 EBLOSUM90 EBLOSUM62"
+bis180lstudent@bis180lstudent-VirtualBox:~/Loops$ for matrix in $matrixs; do water at1.fa ce1.fa -gapopen 10 -gapextend 5 -outfile ${matrix}.alignment -datafile ${matrix}; done
+bis180lstudent@bis180lstudent-VirtualBox:~/Loops$ matrixs="EBLOSUM30 EBLOSUM90 EBLOSUM62"
+bis180lstudent@bis180lstudent-VirtualBox:~/Loops$ for matrix in $matrixs; do for number in 3 4 5 6 7 8 9; do water at1.fa ce1.fa -gapopen 10 -gapextend ${number} -outfile matrix.${matrix}.extend_penalty.${number} -datafile ${matrix}; done; done
+
