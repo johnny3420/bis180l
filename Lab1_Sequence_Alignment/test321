@@ -1,0 +1,78 @@
+########################################
+# Program: water
+# Rundate: Thu  7 Apr 2016 15:31:38
+# Commandline: water
+#    [-asequence] B0213.10
+#    [-bsequence] test123
+#    -gapopen 10
+#    -gapextend 5
+#    -outfile test321
+# Align_format: srspair
+# Report_file: test321
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 
+# 2: 
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 506
+# Identity:     133/506 (26.3%)
+# Similarity:   227/506 (44.9%)
+# Gaps:          29/506 ( 5.7%)
+# Score: 333.0
+# 
+#
+#=======================================
+
+                   1 MFLILILTSILTYFSINLWRGRRRNPKGPLPLPLIGNLHQLIYNSWKTGG     50
+                     :||.|:....|..:.:..:|..|:.|.||..||:||.|  |...|.|.  
+                  29 VFLGLLALVTLLQWLVRNYRELRKLPPGPWGLPVIGYL--LFMGSEKH--     74
+
+                  51 MVAGFQEFKKHYGKFFTLWFGPIPIVFIADYDIAYETHVKRANVFGHRFT    100
+                       ..|.|..|.||..|:...|....|.::||.:..|. .:|....|...|
+                  75 --TRFMELAKQYGSLFSTRLGSQLTVVMSDYKMIREC-FRREEFTGRPDT    121
+
+                 101 IGGMDYIREGRGIVGSNGDFWQEHRRFALTTLRNFGVG-RNIMEDKIMDE    149
+                      ..|..: .|.||:.|.|..|::.|||....||.||:. ....:.::...
+                 122 -PFMQTL-NGYGIINSTGKLWKDQRRFLHDKLRQFGMTYMGNGKQQMQKR    169
+
+                 150 YRYRIQDF-SKTHGKNGVIEVNATTMFDLLVGSIINRMLVSERFEQGDQD    198
+                     ....:.:| ...|..:|. .|:.:.:..:.|.::|..:::|.||...|..
+                 170 IMTEVHEFIGHLHASDGQ-PVDMSPVISVAVSNVICSLMMSTRFSIDDPK    218
+
+                 199 FEKLKMYLTKALEELSIFDSFTPLWLLKSRILRWRTKVTMAPFDFVYELV    248
+                     |.:.. :|.:  |.:.:|.....:..:.:  ::....::.|.........
+                 219 FRRFN-FLIE--EGMRLFGEIHTVDYIPT--MQCFPSISTAKNKIAQNRA    263
+
+                 249 KNGIQKRTSEIKNGSHVISEEGD--DFVDAFLIKIEKDKKEGIDS-TFT-    294
+                     :  :|:...::.:......:..:  |.||.:|.:|||.|.||.|: .|. 
+                 264 E--MQRFYQDVIDDHKRSFDPNNIRDLVDFYLCEIEKAKAEGTDAELFDG    311
+
+                 295 ---LETLAIDLFDLWLAGQETTSTTLTWAGTCLLNHPEVVEKLRKELIQI    341
+                        .|.|...:.||:.||.||..|||.|....:|.:|:.:.:::.||.|:
+                 312 KNHEEQLVQVIIDLFSAGMETIKTTLLWINVFMLRNPKEMRRVQDELDQV    361
+
+                 342 TGGTRSVSLTDRAQTPYLTAVVNEVQRISSILNVNIFRQLQEDSHIDGQP    391
+                     .|..|..::.|....|...:.:.|..|.|||:.:........|..::|..
+                 362 VGRHRLPTIEDLQYLPITESTILESMRRSSIVPLATTHSPTRDVELNGYT    411
+
+                 392 IASGSVVTTQLAMIHTDEDLFKDHTKFDPERFIENNNLDKK---LIPFGI    438
+                     |.:||.|...:..:|.|.:|::...:|.|.|||:.....:|   .||||:
+                 412 IPAGSHVIPLINSVHMDPNLWEKPEEFRPSRFIDTEGKVRKPEYFIPFGV    461
+
+                 439 GKRSCPGESLARAELYLIIGNLVLDFNLEAVGVKPEIKTSTPFGLMKRPP    488
+                     |:|.|.|:.|||.||:|...:.:..|::.....:|........|....|.
+                 462 GRRMCLGDVLARMELFLFFASFMHCFDIALPEGQPLPSLKGNVGATITPE    511
+
+                 489 NYNIRL    494
+                     ::.:.|
+                 512 SFKVCL    517
+
+
+#---------------------------------------
+#---------------------------------------

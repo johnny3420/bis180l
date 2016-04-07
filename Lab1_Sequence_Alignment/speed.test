@@ -1,0 +1,3441 @@
+########################################
+# Program: water
+# Rundate: Thu  7 Apr 2016 14:17:52
+# Commandline: water
+#    [-asequence] 1kfly
+#    [-bsequence] 1kplant
+#    -gapopen 10
+#    -gapextend 5
+#    -outfile speed.test
+# Align_format: srspair
+# Report_file: speed.test
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G51370.2
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 26
+# Identity:       8/26 (30.8%)
+# Similarity:    15/26 (57.7%)
+# Gaps:           0/26 ( 0.0%)
+# Score: 40.0
+# 
+#
+#=======================================
+
+FBpp0085360      323 KMSPRNKQSAPAMEPIFAMVSSSGPN    348
+                     :|.|...:|.|.:|.:..::||..|:
+AT1G51370.2      321 EMLPTLLESCPKLESLILVMSSFNPS    346
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G50920.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 53
+# Identity:      17/53 (32.1%)
+# Similarity:    28/53 (52.8%)
+# Gaps:           3/53 ( 5.7%)
+# Score: 44.0
+# 
+#
+#=======================================
+
+FBpp0085360       30 LKSSIKSGSSARTQPAPPVFVVVNPESSQSSLTSGQRNNTSTTSNSSLNQ     79
+                     ::|..::.|.:|:|..||...||..|..:.| |  |:.:....||.|..:
+AT1G50920.1      590 VRSKSRAMSISRSQSRPPAHEVVPGEGFKDS-T--QKLSAIKISNKSHKK    636
+
+FBpp0085360       80 RNK     82
+                     |:|
+AT1G50920.1      637 RDK    639
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G36960.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 58
+# Identity:      16/58 (27.6%)
+# Similarity:    25/58 (43.1%)
+# Gaps:           1/58 ( 1.7%)
+# Score: 37.0
+# 
+#
+#=======================================
+
+FBpp0085360      247 TDTSANTALNSVTCNLASS-SENPLGSGFDNSPSKISTDQEKIADTQGRP    295
+                     ||.:..|:.||...:.||. |:.||.:...:..|......:.......|.
+AT1G36960.1       93 TDQTHMTSSNSSDISPASPISQPPLPASLPSHDSYFDAGIQASRLVNPRA    142
+
+FBpp0085360      296 TSRNRFSS    303
+                     .|::.|||
+AT1G36960.1      143 ISQHHFSS    150
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G44020.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 22
+# Identity:       7/22 (31.8%)
+# Similarity:    12/22 (54.5%)
+# Gaps:           0/22 ( 0.0%)
+# Score: 36.0
+# 
+#
+#=======================================
+
+FBpp0085360      552 LSGGSLSLHWITHDLDSVDHFD    573
+                     |:.|..:.|:|..|.:..||.:
+AT1G44020.1      300 LAKGEEASHFICKDCNGEDHIE    321
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G15970.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 120
+# Identity:      28/120 (23.3%)
+# Similarity:    53/120 (44.2%)
+# Gaps:           4/120 ( 3.3%)
+# Score: 52.0
+# 
+#
+#=======================================
+
+FBpp0085360      300 RFSS-KSFRQKLKTSRSSSPRKSPKMSPRNKQSAPAMEPIFAMVSSSGPN    348
+                     ||.| .|..::.::....:..|..:..|..|...|.||... :.|.....
+AT1G15970.1        6 RFRSVNSDEREFRSVLGPTGNKLQRKPPGMKLEKPMMEKTI-IDSKDEKA     54
+
+FBpp0085360      349 SSEGSRRSSKSSLRRKQSPLPNVTAKISA--TSNSRADLAKAPKSRKETT    396
+                     ....:..|.:::|::..|...::..|.||  |::..:|.:.:.:|...:.
+AT1G15970.1       55 KKPTTPASPRTTLKQCSSLCSSILRKNSASMTASYSSDASSSCESSPLSV    104
+
+FBpp0085360      397 ARSNLSRKSYRRSSPRSRSR    416
+                     |.|:..:|..|||...|.:|
+AT1G15970.1      105 ASSSSCKKVVRRSGSVSSTR    124
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G73440.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 84
+# Identity:      23/84 (27.4%)
+# Similarity:    31/84 (36.9%)
+# Gaps:           3/84 ( 3.6%)
+# Score: 47.0
+# 
+#
+#=======================================
+
+FBpp0085360      341 MVSSSGPNSSEGSRRSSKSSLRRKQSPLPNVTAKISATSNSRADLAKAPK    390
+                     |........|.||.|.|.||....:|. | ....||.....|.......|
+AT1G73440.1        1 MARGESEGESSGSERESSSSSSGNESE-P-TKGTISKYEKQRLSRIAENK     48
+
+FBpp0085360      391 SRKETTARSNLSRKSYRRSSPRSRSRGSRANALE    424
+                     :|.:....|. :.|:....||.|:.|..:.|:.|
+AT1G73440.1       49 ARLDALGISK-AAKALLSPSPVSKKRRVKRNSGE     81
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75120.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 33
+# Identity:       8/33 (24.2%)
+# Similarity:    17/33 (51.5%)
+# Gaps:           0/33 ( 0.0%)
+# Score: 35.0
+# 
+#
+#=======================================
+
+FBpp0085360      593 VLVDVNTTETHTLRLRAVPERGSRGQDSSVDKF    625
+                     |::.:|.......|::|..|....|:..::|:|
+AT1G75120.1      366 VIIHMNYHSDKLERMQAAVEFYVNGKQDALDRF    398
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G17600.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 75
+# Identity:      17/75 (22.7%)
+# Similarity:    31/75 (41.3%)
+# Gaps:           1/75 ( 1.3%)
+# Score: 45.0
+# 
+#
+#=======================================
+
+FBpp0085360      207 SHFSNCS-FNNTNYDLSNLLSDITPLTGYTPVGLTEEADYRTDTSANTAL    255
+                     |||:..: .:.:|:|...|.|.|..||....:.|......::......:|
+AT1G17600.1      912 SHFTKLTCLDLSNHDFETLPSSIRDLTSLVTLCLNNCKKLKSVEKLPLSL    961
+
+FBpp0085360      256 NSVTCNLASSSENPLGSGFDNSPSK    280
+                     ..:..:...|.|......|::.|:|
+AT1G17600.1      962 QFLDAHGCDSLEAGSAEHFEDIPNK    986
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G51380.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 34
+# Identity:       8/34 (23.5%)
+# Similarity:    14/34 (41.2%)
+# Gaps:           0/34 ( 0.0%)
+# Score: 28.0
+# 
+#
+#=======================================
+
+FBpp0085360       50 VVVNPESSQSSLTSGQRNNTSTTSNSSLNQRNKE     83
+                     :..|.......||...|::....|:...::|.||
+AT1G51380.1      266 IFCNTRQKVDWLTEKMRSSNFIVSSMHGDKRQKE    299
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G77370.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 20
+# Identity:       5/20 (25.0%)
+# Similarity:    10/20 (50.0%)
+# Gaps:           0/20 ( 0.0%)
+# Score: 28.0
+# 
+#
+#=======================================
+
+FBpp0085360      113 DTVNFDSTSTSIRMFLKNTV    132
+                     |..|....:.|:..|::|.:
+AT1G77370.1       22 DLSNSAGAANSVSAFVQNAI     41
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G44090.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 63
+# Identity:      15/63 (23.8%)
+# Similarity:    26/63 (41.3%)
+# Gaps:           2/63 ( 3.2%)
+# Score: 36.0
+# 
+#
+#=======================================
+
+FBpp0085360      221 LSNLLSDITPLTGYTPVGLTEEADYRTDTSANTALNSVT-CNLASSSENP    269
+                     ::.|:.|:..|.|.: :||.:...||......:.:.... .......|..
+AT1G44090.1      195 MNGLVMDLMELLGIS-MGLKDRTYYRRFFEDGSGIFRCNYYPPCKQPEKA    243
+
+FBpp0085360      270 LGSGFDNSPSKIS    282
+                     ||.|..|.|:.|:
+AT1G44090.1      244 LGVGPHNDPTAIT    256
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G10950.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 20
+# Identity:       7/20 (35.0%)
+# Similarity:    12/20 (60.0%)
+# Gaps:           0/20 ( 0.0%)
+# Score: 40.0
+# 
+#
+#=======================================
+
+FBpp0085360      558 SLHWITHDLDSVDHFDVFVD    577
+                     |:.||..::.....|||::|
+AT1G10950.1      193 SVQWIPTNVTFARRFDVYLD    212
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G31870.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 136
+# Identity:      35/136 (25.7%)
+# Similarity:    51/136 (37.5%)
+# Gaps:           5/136 ( 3.7%)
+# Score: 61.0
+# 
+#
+#=======================================
+
+FBpp0085360      281 ISTDQEKIADTQGRPTSRNRFSSKSFRQKLKTSRSSSPRKSPKMSPRNKQ    330
+                     :|..:.:...:..|.:||.|..|......|...|.........:|...|:
+AT1G31870.1      203 LSPPRRRHVHSPSRESSRKRSDSVELDDDLSPPRRKRDLHGSPVSDVKKK    252
+
+FBpp0085360      331 SAPAMEPIFAMVSSSGPNSSEGSRRSSKSSLRRKQSPLPNVTAKISATSN    380
+                     |.....|......|..|   |.:||||||.  ...:.|......|:...:
+AT1G31870.1      253 SNDLSPPRRRRYHSPSP---EPARRSSKSF--GSNADLSPPGRNINMKDS    297
+
+FBpp0085360      381 SRADLAKAPKSRKETTARSNLSRKSYRRSSPRSRSR    416
+                     ..:||:...|:.....:..|:||.|...|||..|.|
+AT1G31870.1      298 QDSDLSPQRKAADLRRSSENVSRSSNFDSSPPRRPR    333
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G51360.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 35
+# Identity:      10/35 (28.6%)
+# Similarity:    16/35 (45.7%)
+# Gaps:           0/35 ( 0.0%)
+# Score: 33.0
+# 
+#
+#=======================================
+
+FBpp0085360      596 DVNTTETHTLRLRAVPERGSRGQDSSVDKFMSEVA    630
+                     |:|....|...:|.|.|..|..:|.....:::|.|
+AT1G51360.1       71 DLNAYAIHPDHVRVVKESESIREDIMAVDWIAEQA    105
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14940.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 18
+# Identity:       7/18 (38.9%)
+# Similarity:     9/18 (50.0%)
+# Gaps:           0/18 ( 0.0%)
+# Score: 30.0
+# 
+#
+#=======================================
+
+FBpp0085360      624 KFMSEVAAGHMRHVRQGQ    641
+                     ||:..:.|....||..||
+AT1G14940.1      135 KFVKSLVADMDDHVLNGQ    152
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G50950.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 30
+# Identity:      10/30 (33.3%)
+# Similarity:    13/30 (43.3%)
+# Gaps:           0/30 ( 0.0%)
+# Score: 39.0
+# 
+#
+#=======================================
+
+FBpp0085360      149 HKFIKRSGSVPNSKRSLTSSCSQAVDEENP    178
+                     |..:.||...|.:|.....|..|.:..|||
+AT1G50950.1      411 HSSVARSYHYPEAKFHFELSPMQVLISENP    440
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75110.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 18
+# Identity:       7/18 (38.9%)
+# Similarity:    13/18 (72.2%)
+# Gaps:           0/18 ( 0.0%)
+# Score: 37.0
+# 
+#
+#=======================================
+
+FBpp0085360      272 SGFDNSPSKISTDQEKIA    289
+                     :||.||.|.:..::|:|:
+AT1G75110.1       36 NGFFNSGSSLIANEERIS     53
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G17400.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 14
+# Identity:       8/14 (57.1%)
+# Similarity:    10/14 (71.4%)
+# Gaps:           0/14 ( 0.0%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360       63 SGQRNNTSTTSNSS     76
+                     :|..|.|||:|.||
+AT1G17400.1       12 NGDHNRTSTSSASS     25
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09420.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 25
+# Identity:       9/25 (36.0%)
+# Similarity:    11/25 (44.0%)
+# Gaps:           1/25 ( 4.0%)
+# Score: 34.0
+# 
+#
+#=======================================
+
+FBpp0085360      188 LTDSPTRTTVPSTSQITPTSHFSNC    212
+                     |||...|:.:.||.... ..|..||
+AT1G09420.1      197 LTDEDLRSIIASTLTCR-VDHQENC    220
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G50930.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 64
+# Identity:      14/64 (21.9%)
+# Similarity:    29/64 (45.3%)
+# Gaps:           3/64 ( 4.7%)
+# Score: 42.0
+# 
+#
+#=======================================
+
+FBpp0085360      561 WITHDLDSVDHFDVFVDNVPNRSVYNRQATSTVLVDVNTTETHTLRLRAV    610
+                     ||.: .:.:||.|..|:.....:.| ....|:::.|. .:..||.::..|
+AT1G50930.1       33 WIVY-FEDIDHDDEMVETEGEMTHY-YDNDSSMISDA-ASPVHTTKINNV     79
+
+FBpp0085360      611 PERGSRGQDSSVDK    624
+                     ..|.:...:::..|
+AT1G50930.1       80 VRRKANNINTNPKK     93
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G65960.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 34
+# Identity:      11/34 (32.4%)
+# Similarity:    18/34 (52.9%)
+# Gaps:           3/34 ( 8.8%)
+# Score: 28.0
+# 
+#
+#=======================================
+
+FBpp0085360      194 RTTVPSTSQITPTSHFS--NCSFNNTNYDLSNLL    225
+                     |..:.|..|..|...||  :.||:| .:::|.:|
+AT1G65960.1      233 RFNIVSKDQGVPVVAFSLKDHSFHN-EFEISEML    265
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09400.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 36
+# Identity:      12/36 (33.3%)
+# Similarity:    16/36 (44.4%)
+# Gaps:           1/36 ( 2.8%)
+# Score: 42.0
+# 
+#
+#=======================================
+
+FBpp0085360      648 AHLDARPQQRSLVDFWTDSEFLYMPTRETLTPSKAR    683
+                     :|.|.:|...|.|.. ||..|...|:.|...|.:.|
+AT1G09400.1       97 SHQDCQPNGESPVSS-TDKPFADDPSNEFTPPRRLR    131
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09415.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 33
+# Identity:      12/33 (36.4%)
+# Similarity:    16/33 (48.5%)
+# Gaps:           1/33 ( 3.0%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360      328 NKQSAPAMEPIFAMVSSSGPNSSEGSRRSSKSS    360
+                     ||..|..:|.. |..|||..|..:||:...:.|
+AT1G09415.1       69 NKAEANNIEKA-ANESSSASNEYDGSKEKQEGS    100
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G74730.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 24
+# Identity:       7/24 (29.2%)
+# Similarity:    12/24 (50.0%)
+# Gaps:           0/24 ( 0.0%)
+# Score: 33.0
+# 
+#
+#=======================================
+
+FBpp0085360      306 FRQKLKTSRSSSPRKSPKMSPRNK    329
+                     ||:...|.:|.:......|:|:.|
+AT1G74730.1       28 FRRSFSTGKSPATFSVVAMAPQKK     51
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75100.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 61
+# Identity:      17/61 (27.9%)
+# Similarity:    30/61 (49.2%)
+# Gaps:           1/61 ( 1.6%)
+# Score: 59.0
+# 
+#
+#=======================================
+
+FBpp0085360      347 PNSSEGSRRSSKSSLRRKQSPLPNVT-AKISATSNSRADLAKAPKSRKET    395
+                     |.||.|:...|:.||..|.:.:|... |...:.:.::..::.:|.||..:
+AT1G75100.1      124 PESSSGTSSPSQFSLPAKATEIPTFNLAATRSLNKNKETVSSSPLSRTSS    173
+
+FBpp0085360      396 TARSNLSRKSY    406
+                     .|....:.|||
+AT1G75100.1      174 KADVVSTAKSY    184
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75240.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 30
+# Identity:       8/30 (26.7%)
+# Similarity:    15/30 (50.0%)
+# Gaps:           0/30 ( 0.0%)
+# Score: 41.0
+# 
+#
+#=======================================
+
+FBpp0085360       63 SGQRNNTSTTSNSSLNQRNKEHSAARLSVT     92
+                     :|..|||..:.||.....::..|.:..|::
+AT1G75240.1       38 NGNNNNTRVSCNSQTLDHHQSKSPSSFSIS     67
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14920.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 18
+# Identity:       8/18 (44.4%)
+# Similarity:    11/18 (61.1%)
+# Gaps:           0/18 ( 0.0%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360       43 QPAPPVFVVVNPESSQSS     60
+                     |..|.:|.||..||:.:|
+AT1G14920.1      390 QIKPEIFTVVEQESNHNS    407
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G65510.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 42
+# Identity:      11/42 (26.2%)
+# Similarity:    18/42 (42.9%)
+# Gaps:           2/42 ( 4.8%)
+# Score: 27.0
+# 
+#
+#=======================================
+
+FBpp0085360       29 TLKSSIK--SGSSARTQPAPPVFVVVNPESSQSSLTSGQRNN     68
+                     ||.|.:|  ..:|.:.....|:.......|..:|..|.::||
+AT1G65510.1       22 TLSSQVKVVEATSRKLANGRPIVWTPASRSCGASHASWKKNN     63
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75250.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 11
+# Identity:       4/11 (36.4%)
+# Similarity:     9/11 (81.8%)
+# Gaps:           0/11 ( 0.0%)
+# Score: 31.0
+# 
+#
+#=======================================
+
+FBpp0085360      571 HFDVFVDNVPN    581
+                     |:|:.|:::.|
+AT1G75250.1       53 HYDILVEDLIN     63
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G54410.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 35
+# Identity:       8/35 (22.9%)
+# Similarity:    14/35 (40.0%)
+# Gaps:           0/35 ( 0.0%)
+# Score: 28.0
+# 
+#
+#=======================================
+
+FBpp0085360      275 DNSPSKISTDQEKIADTQGRPTSRNRFSSKSFRQK    309
+                     |....||...:.|..|.:|:.....:...|..::|
+AT1G54410.1       47 DKIKDKIHGGEGKSHDGEGKSHDGEKKKKKDKKEK     81
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09410.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 27
+# Identity:      10/27 (37.0%)
+# Similarity:    15/27 (55.6%)
+# Gaps:           1/27 ( 3.7%)
+# Score: 35.0
+# 
+#
+#=======================================
+
+FBpp0085360       37 GSSARTQPAPPVFVVVNPESSQSSLTS     63
+                     |.:.|...|..:|.|: ||.::.|.||
+AT1G09410.1      214 GQNNRVDDARKIFDVM-PEKTEVSWTS    239
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G54420.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 32
+# Identity:      15/32 (46.9%)
+# Similarity:    16/32 (50.0%)
+# Gaps:           2/32 ( 6.2%)
+# Score: 43.0
+# 
+#
+#=======================================
+
+FBpp0085360       18 SGSRRNPM-PSRTLKSSIKSGSSARTQPAPPV     48
+                     |.|...|. |....|.|..|.||||.| |||:
+AT1G54420.1       84 SSSSTGPQAPQLVFKLSSSSLSSARLQ-APPL    114
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75090.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 95
+# Identity:      21/95 (22.1%)
+# Similarity:    44/95 (46.3%)
+# Gaps:           3/95 ( 3.2%)
+# Score: 60.0
+# 
+#
+#=======================================
+
+FBpp0085360      294 RPTSRNRFSSKSFRQKLKTSRSSSPRKSPKMSPRNKQSAPAMEP--IFAM    341
+                     :|...:|....|...:.|.:::...:| |:::||..:|....:|  .|::
+AT1G75090.1       12 KPIDESRAILCSTGNRFKVTKTEMTKK-PQLNPRVTKSPATKKPDSNFSV     60
+
+FBpp0085360      342 VSSSGPNSSEGSRRSSKSSLRRKQSPLPNVTAKISATSNSRADLA    386
+                     .:....:||..|.|||.::....:...|:....:...:|..|.:|
+AT1G75090.1       61 STDDSSSSSSSSERSSVNTTNSGKVTTPSKRNGVEKLNNVVASVA    105
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G36950.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 26
+# Identity:       7/26 (26.9%)
+# Similarity:    12/26 (46.2%)
+# Gaps:           0/26 ( 0.0%)
+# Score: 28.0
+# 
+#
+#=======================================
+
+FBpp0085360      143 SVKHLFHKFIKRSGSVPNSKRSLTSS    168
+                     ::|....|.:.:.||..|..|.:..|
+AT1G36950.1      198 NIKGYCCKKVVKKGSFANPSRHINPS    223
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G50940.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 45
+# Identity:      14/45 (31.1%)
+# Similarity:    21/45 (46.7%)
+# Gaps:           2/45 ( 4.4%)
+# Score: 39.0
+# 
+#
+#=======================================
+
+FBpp0085360      192 PTRTTVPSTS-QITP-TSHFSNCSFNNTNYDLSNLLSDITPLTGY    234
+                     |...|:.||| .:|| |::..:.....:..||||...|....:.|
+AT1G50940.1      184 PCMLTIRSTSFPVTPITANSESKKATVSQIDLSNFEDDSVSKSRY    228
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G21080.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 98
+# Identity:      18/98 (18.4%)
+# Similarity:    36/98 (36.7%)
+# Gaps:           0/98 ( 0.0%)
+# Score: 43.0
+# 
+#
+#=======================================
+
+FBpp0085360      365 QSPLPNVTAKISATSNSRADLAKAPKSRKETTARSNLSRKSYRRSSPRSR    414
+                     :|.:..|..::.....::.:..:|.....:|..:.....|....|.|..|
+AT1G21080.1      275 ESTISRVCEQVLQDPTAKREELRARAKGLKTLGKIFQKNKIASESDPLVR    324
+
+FBpp0085360      415 SRGSRANALESPLQKSEDTPDNVEYAFALVSPEEAGNSQPEESSAGVE    462
+                     :...:.|........|..:|.:.|.:.:.|.|:|..:...|....|.|
+AT1G21080.1      325 AELHKLNGNGQEHDHSSTSPKSDEASRSTVGPQEPQSPYVEAPKLGEE    372
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14930.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 11
+# Identity:       4/11 (36.4%)
+# Similarity:     9/11 (81.8%)
+# Gaps:           0/11 ( 0.0%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360      429 KSEDTPDNVEY    439
+                     ::||:|:.:.|
+AT1G14930.1      123 RNEDSPEPINY    133
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G65970.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 15
+# Identity:       8/15 (53.3%)
+# Similarity:     9/15 (60.0%)
+# Gaps:           0/15 ( 0.0%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360      128 LKNTVGLVRAGESFT    142
+                     ||.||..|.:|..||
+AT1G65970.1      137 LKVTVANVESGGEFT    151
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G17410.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 23
+# Identity:       9/23 (39.1%)
+# Similarity:    12/23 (52.2%)
+# Gaps:           0/23 ( 0.0%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360      528 DLHGKRRPPSARLSYPVSICGAC    550
+                     ||.|......|::|:|.||...|
+AT1G17410.1      117 DLIGPTDAEKAKISHPHSIRALC    139
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G31880.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 70
+# Identity:      15/70 (21.4%)
+# Similarity:    32/70 (45.7%)
+# Gaps:           3/70 ( 4.3%)
+# Score: 43.0
+# 
+#
+#=======================================
+
+FBpp0085360      112 RDTVNFDSTSTSIRM-FLKNTVGLVRAGESFTSVKHLFHKFIKRSGSV-P    159
+                     |...::|:.|..:.. |:..:.|...|.:...|..|...:...:..|: .
+AT1G31880.1       69 RSFPDYDNASEGVPYPFMGGSAGSTPAWDFTNSSHHPAGRLESKFTSIYG    118
+
+FBpp0085360      160 NSKRSLTS-SCSQAVDEENP    178
+                     |.:.|::: ||...:|::.|
+AT1G31880.1      119 NDRESISAQSCDVVLDDDGP    138
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G77320.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 54
+# Identity:      13/54 (24.1%)
+# Similarity:    24/54 (44.4%)
+# Gaps:           1/54 ( 1.9%)
+# Score: 39.0
+# 
+#
+#=======================================
+
+FBpp0085360      172 AVDEENPYMSKSNDTLLTDSPTRTTVPSTSQITPTSHFSNC-SFNNTNYD    220
+                     |...|.|.::.:.:.||..:.......|..:|...:|||.. .:|..|:.
+AT1G77320.1      857 ASGREVPDVADTIEDLLEQTSKIQDQKSPGRILEKTHFSTSEQYNTGNHS    906
+
+FBpp0085360      221 LSNL    224
+                     ::.|
+AT1G77320.1      907 VTGL    910
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G77500.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 90
+# Identity:      23/90 (25.6%)
+# Similarity:    36/90 (40.0%)
+# Gaps:           4/90 ( 4.4%)
+# Score: 49.0
+# 
+#
+#=======================================
+
+FBpp0085360       14 PAAPSGSRRNPMPSRTLKSSIKSG--SSARTQPAPPVFVVVNPESSQSSL     61
+                     |......|..|||.:..:||:.|.  ||.........|..||....:||.
+AT1G77500.1      342 PERNINKREVPMPEQVTESSLDSETISSFSGSDVESEFHYVNGGEGKSSS    391
+
+FBpp0085360       62 TSGQRNNTSTTSNSSLNQR--NKEHSAARLSVTEDTAALD     99
+                     .|...:...|.|:..:.::  .|:..:..|..|..|::.|
+AT1G77500.1      392 ISSISHGAGTKSSREVEEQYGRKKGVSFELEETTSTSSFD    431
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G51320.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 66
+# Identity:      16/66 (24.2%)
+# Similarity:    25/66 (37.9%)
+# Gaps:           1/66 ( 1.5%)
+# Score: 30.0
+# 
+#
+#=======================================
+
+FBpp0085360      167 SSCSQAVDEENPYMSKSNDTLLTDSPTRTTVPSTSQITPTSHFSNCSFNN    216
+                     ||....:.|...|..|..| |.:||.......::..:..|.:::....||
+AT1G51320.1      158 SSIKSIIYEIGLYSKKVKD-LESDSTWSIFQSNSVSLNGTLYWAGVDVNN    206
+
+FBpp0085360      217 TNYDLSNLLSDITPLT    232
+                     ..:..|...|...|.|
+AT1G51320.1      207 GIFIRSFSFSTEKPRT    222
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G10940.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 30
+# Identity:      11/30 (36.7%)
+# Similarity:    14/30 (46.7%)
+# Gaps:           1/30 ( 3.3%)
+# Score: 35.0
+# 
+#
+#=======================================
+
+FBpp0085360      153 KRSGSVPNSKRSLTSSCSQA-VDEENPYMS    181
+                     |.|..:.|..|.||.:...| ..:|||..|
+AT1G10940.1      256 KHSWFLKNLPRELTETAQAAYFKKENPTFS    285
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14990.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 45
+# Identity:      15/45 (33.3%)
+# Similarity:    22/45 (48.9%)
+# Gaps:           1/45 ( 2.2%)
+# Score: 37.0
+# 
+#
+#=======================================
+
+FBpp0085360       59 SSLTSGQRNNTSTTSNSSLNQRNKEHSAARLSVTEDTAALDSSAL    103
+                     ::||....|||:....|..:|....:.|....:| |||.|..:||
+AT1G14990.1       30 AALTFFYTNNTTRAGYSRGDQFYASYPAGTELLT-DTAKLYKAAL     73
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G74770.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 25
+# Identity:      10/25 (40.0%)
+# Similarity:    14/25 (56.0%)
+# Gaps:           0/25 ( 0.0%)
+# Score: 41.0
+# 
+#
+#=======================================
+
+FBpp0085360      301 FSSKSFRQKLKTSRSSSPRKSPKMS    325
+                     ||:::..|..|.|:...|||..|.|
+AT1G74770.1      535 FSNQTQLQLCKVSKDVYPRKKDKSS    559
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75080.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 105
+# Identity:      32/105 (30.5%)
+# Similarity:    46/105 (43.8%)
+# Gaps:           5/105 ( 4.8%)
+# Score: 48.0
+# 
+#
+#=======================================
+
+FBpp0085360      305 SFRQKLKTSRSSSPRKSPKMSPRNKQ-SAPAM-EPIFAMVSSSGPNSSEG    352
+                     |..|...:|...||..|.::||.:.. .:|:. ||...|.|:..|....|
+AT1G75080.1      110 SQNQSPLSSAFQSPIPSYQVSPSSSSFPSPSRGEPNNNMSSTFFPFLRNG    159
+
+FBpp0085360      353 SRRSSKSSLRRKQSPLPNVTAKISA-TSNSRADLAKAPKSRKETTARSNL    401
+                     ...||..|||...| .| ||..:|: ||.:...|.......|::.|.:..
+AT1G75080.1      160 GIPSSLPSLRISNS-CP-VTPPVSSPTSKNPKPLPNWESIAKQSMAIAKQ    207
+
+FBpp0085360      402 SRKSY    406
+                     |..|:
+AT1G75080.1      208 SMASF    212
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14890.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 21
+# Identity:       8/21 (38.1%)
+# Similarity:    11/21 (52.4%)
+# Gaps:           1/21 ( 4.8%)
+# Score: 31.0
+# 
+#
+#=======================================
+
+FBpp0085360      240 TEEADYRTDTSANTALNSVTC    260
+                     |::.|: ..||.||.|....|
+AT1G14890.1       53 TDDLDF-IRTSCNTTLYPDVC     72
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G51330.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 34
+# Identity:       8/34 (23.5%)
+# Similarity:    14/34 (41.2%)
+# Gaps:           0/34 ( 0.0%)
+# Score: 26.0
+# 
+#
+#=======================================
+
+FBpp0085360      115 VNFDSTSTSIRMFLKNTVGLVRAGESFTSVKHLF    148
+                     ::.:|...:....|..||.||.....:.:..|.|
+AT1G51330.1      150 IDEESAEAAAATALACTVALVWLQRYYAASSHRF    183
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G80350.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 26
+# Identity:       8/26 (30.8%)
+# Similarity:    13/26 (50.0%)
+# Gaps:           0/26 ( 0.0%)
+# Score: 40.0
+# 
+#
+#=======================================
+
+FBpp0085360      457 SSAGVEDASSKCETYQKDCNCHHCQD    482
+                     |...:||.:.:.|.|..|...:.|:|
+AT1G80350.1      433 SDVNIEDVARRTEGYSGDDLTNVCRD    458
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14900.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 54
+# Identity:      15/54 (27.8%)
+# Similarity:    22/54 (40.7%)
+# Gaps:           1/54 ( 1.9%)
+# Score: 50.0
+# 
+#
+#=======================================
+
+FBpp0085360      246 RTDTSANTALNSVTCNLASSSENPLGSGFDNSPSKIS-TDQEKIADTQGR    294
+                     :|...::.|..:|......|::.|...|....|...| ..|||:....||
+AT1G14900.1      107 KTQAESDAAAAAVVAATVVSTDPPRSRGRPPKPKDPSEPPQEKVITGSGR    156
+
+FBpp0085360      295 PTSR    298
+                     |..|
+AT1G14900.1      157 PRGR    160
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G15960.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 17
+# Identity:       6/17 (35.3%)
+# Similarity:    13/17 (76.5%)
+# Gaps:           0/17 ( 0.0%)
+# Score: 36.0
+# 
+#
+#=======================================
+
+FBpp0085360      586 NRQATSTVLVDVNTTET    602
+                     ||:::||..:|.:.::|
+AT1G15960.1      486 NRESSSTHFLDFSNSQT    502
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14980.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 23
+# Identity:      10/23 (43.5%)
+# Similarity:    13/23 (56.5%)
+# Gaps:           1/23 ( 4.3%)
+# Score: 33.0
+# 
+#
+#=======================================
+
+FBpp0085360       43 QPAPPVFVVVNPESSQSSLTSGQ     65
+                     |||.....::.||.| |.|.||:
+AT1G14980.1       19 QPAKTESGILLPEKS-SKLNSGK     40
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14910.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 67
+# Identity:      16/67 (23.9%)
+# Similarity:    27/67 (40.3%)
+# Gaps:           1/67 ( 1.5%)
+# Score: 35.0
+# 
+#
+#=======================================
+
+FBpp0085360      239 LTEEADYRTDTSANTALNSVTCNLASSSENPLGSGFDNSPSKISTDQEKI    288
+                     ||...:|..|......:.|....|..:.::.|.|. |..||....:....
+AT1G14910.1      300 LTTMEEYMRDAPQMVDVTSGPLLLTYTPDDGLTSE-DVGPSHEEHETSSP    348
+
+FBpp0085360      289 ADTQGRPTSRNRFSSKS    305
+                     :|:...|:...:.||:|
+AT1G14910.1      349 SDSAVVPSEETQLSSQS    365
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G44100.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 21
+# Identity:       7/21 (33.3%)
+# Similarity:    11/21 (52.4%)
+# Gaps:           0/21 ( 0.0%)
+# Score: 29.0
+# 
+#
+#=======================================
+
+FBpp0085360      131 TVGLVRAGESFTSVKHLFHKF    151
+                     |||.|....:.||.:.::..|
+AT1G44100.1      223 TVGTVTLSGTVTSSQKIWRTF    243
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G15000.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 26
+# Identity:      10/26 (38.5%)
+# Similarity:    18/26 (69.2%)
+# Gaps:           2/26 ( 7.7%)
+# Score: 44.0
+# 
+#
+#=======================================
+
+FBpp0085360      267 ENPLGSGFDNSPSK--ISTDQEKIAD    290
+                     :||:|.||..:.|:  |.|:|.::|:
+AT1G15000.1      118 DNPIGVGFSIAASQQDIPTNQRQVAE    143
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G31850.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 41
+# Identity:       7/41 (17.1%)
+# Similarity:    17/41 (41.5%)
+# Gaps:           0/41 ( 0.0%)
+# Score: 35.0
+# 
+#
+#=======================================
+
+FBpp0085360      278 PSKISTDQEKIADTQGRPTSRNRFSSKSFRQKLKTSRSSSP    318
+                     |.::....|:|.|..|...:..:.....::.::|..:...|
+AT1G31850.1      407 PERLHVAPERIGDVHGGSANSLKHDDGKWKNRVKHYKKVLP    447
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G79210.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 27
+# Identity:       9/27 (33.3%)
+# Similarity:    16/27 (59.3%)
+# Gaps:           1/27 ( 3.7%)
+# Score: 36.0
+# 
+#
+#=======================================
+
+FBpp0085360      353 SRRSSKSSLRRKQSPLPNVTAKISATS    379
+                     ||:.::..||..:.|:| ||..:..|:
+AT1G79210.1       90 SRKQAEQYLRLYKEPIP-VTQLVRETA    115
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G67160.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 24
+# Identity:       9/24 (37.5%)
+# Similarity:    12/24 (50.0%)
+# Gaps:           0/24 ( 0.0%)
+# Score: 31.0
+# 
+#
+#=======================================
+
+FBpp0085360      258 VTCNLASSSENPLGSGFDNSPSKI    281
+                     |.|||:|........|.||:..|:
+AT1G67160.1      172 VFCNLSSYVAYHHKRGDDNNSWKV    195
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G20960.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 24
+# Identity:      11/24 (45.8%)
+# Similarity:    17/24 (70.8%)
+# Gaps:           1/24 ( 4.2%)
+# Score: 45.0
+# 
+#
+#=======================================
+
+FBpp0085360      486 AVKRSDFFKSPEGQKRLEAKLLAK    509
+                     ||.::|.|::||.:..:| |||.|
+AT1G20960.1      149 AVLKNDAFRNPEKKMEIE-KLLNK    171
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G74780.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 24
+# Identity:       7/24 (29.2%)
+# Similarity:    13/24 (54.2%)
+# Gaps:           0/24 ( 0.0%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360      563 THDLDSVDHFDVFVDNVPNRSVYN    586
+                     ::|..::|...||.|...|..|::
+AT1G74780.1       39 SYDQSTLDTVSVFKDIGANAGVFS     62
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G65620.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 28
+# Identity:       9/28 (32.1%)
+# Similarity:    15/28 (53.6%)
+# Gaps:           1/28 ( 3.6%)
+# Score: 27.0
+# 
+#
+#=======================================
+
+FBpp0085360      220 DLSNLLSDITPLTGYTPV-GLTEEADYR    246
+                     :::.||:::.|......| .|..|||.|
+AT1G65620.1       49 NVTKLLNELHPSQREDAVNSLAYEADMR     76
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G12680.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 57
+# Identity:      15/57 (26.3%)
+# Similarity:    28/57 (49.1%)
+# Gaps:           1/57 ( 1.8%)
+# Score: 48.0
+# 
+#
+#=======================================
+
+FBpp0085360      408 RSSPRSRSRGSRANALESPLQKSEDTPDNVEYAFALVSPEEA-GNSQPEE    456
+                     :|..:|::..|......||.:|::....:.|......||.:: .|::.||
+AT1G12680.1      369 KSKHKSQAGSSTCLQNRSPTEKTDLNRADREKKIPSDSPTDSFSNTEEEE    418
+
+FBpp0085360      457 SSAGVED    463
+                     ..:||.|
+AT1G12680.1      419 DESGVVD    425
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G74790.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 32
+# Identity:      11/32 (34.4%)
+# Similarity:    17/32 (53.1%)
+# Gaps:           1/32 ( 3.1%)
+# Score: 39.0
+# 
+#
+#=======================================
+
+FBpp0085360      181 SKSNDTLLTDSPTRTTVPSTSQITPTSHFSNC    212
+                     |:.|.|...::.|....|.||. :|:|..|:|
+AT1G74790.1      638 SRCNLTCSKENSTARRNPGTSS-SPSSSSSSC    668
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G77510.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 28
+# Identity:       9/28 (32.1%)
+# Similarity:    17/28 (60.7%)
+# Gaps:           1/28 ( 3.6%)
+# Score: 35.0
+# 
+#
+#=======================================
+
+FBpp0085360      290 DTQGRPTSRNRFSSKSFRQKLKTSRSSS    317
+                     :::.:|||....|:||...| ||..:::
+AT1G77510.1      478 NSEKKPTSHGEESTKSEEPK-KTEETAA    504
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G43980.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 27
+# Identity:      12/27 (44.4%)
+# Similarity:    14/27 (51.9%)
+# Gaps:           0/27 ( 0.0%)
+# Score: 41.0
+# 
+#
+#=======================================
+
+FBpp0085360      485 RAVKRSDFFKSPEGQKRLEAKLLAKNF    511
+                     |.|.||...|||...|.:.|:||...|
+AT1G43980.1        9 RLVNRSLLSKSPTLAKIVHAQLLEAGF     35
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G77300.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 33
+# Identity:      11/33 (33.3%)
+# Similarity:    19/33 (57.6%)
+# Gaps:           0/33 ( 0.0%)
+# Score: 54.0
+# 
+#
+#=======================================
+
+FBpp0085360       54 PESSQSSLTSGQRNNTSTTSNSSLNQRNKEHSA     86
+                     |:.||.:|.:|:.|.:|...|...:.||.:.|:
+AT1G77300.1      528 PQRSQGNLNNGEHNRSSHNGNVEGSNRNIQASS    560
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G80340.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 22
+# Identity:      11/22 (50.0%)
+# Similarity:    14/22 (63.6%)
+# Gaps:           1/22 ( 4.5%)
+# Score: 39.0
+# 
+#
+#=======================================
+
+FBpp0085360      213 SFNNTNYDL-SNLLSDITPLTG    233
+                     :|..||:.: |.||.||..|||
+AT1G80340.1       73 AFQITNHGVPSRLLDDIEFLTG     94
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G65985.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 17
+# Identity:       7/17 (41.2%)
+# Similarity:    11/17 (64.7%)
+# Gaps:           0/17 ( 0.0%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360       28 RTLKSSIKSGSSARTQP     44
+                     |:|||:.|.|:...:.|
+AT1G65985.1       43 RSLKSTAKDGAETSSNP     59
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G51340.2
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 50
+# Identity:      13/50 (26.0%)
+# Similarity:    24/50 (48.0%)
+# Gaps:           2/50 ( 4.0%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360      100 SSALLQGGSSNSRDTVNFDSTSTSIRMFL--KNTVGLVRAGESFTSVKHL    147
+                     ||||:.||.......|...|.:..:..|:  |:...::|..:.:.|::.|
+AT1G51340.2      168 SSALIIGGVLGLFQAVFLISAAKPLLSFMGVKHDSPMMRPSQRYLSLRSL    217
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G31860.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 55
+# Identity:      11/55 (20.0%)
+# Similarity:    26/55 (47.3%)
+# Gaps:           1/55 ( 1.8%)
+# Score: 33.0
+# 
+#
+#=======================================
+
+FBpp0085360       98 LDSSALLQGGSSNSRDTVNFDSTSTSIRMFLKNTVGLVRAGESFTSVKHL    147
+                     :|:.|:|..|..| |:.::...:|.....|.::...|...||:..:..::
+AT1G31860.1       74 VDTGAVLMQGFVN-REALSTTISSRKATFFSRSRSTLWTKGETSNNFINI    122
+
+FBpp0085360      148 FHKFI    152
+                     ...::
+AT1G31860.1      123 LDVYV    127
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G73450.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 40
+# Identity:      12/40 (30.0%)
+# Similarity:    20/40 (50.0%)
+# Gaps:           0/40 ( 0.0%)
+# Score: 46.0
+# 
+#
+#=======================================
+
+FBpp0085360      211 NCSFNNTNYDLSNLLSDITPLTGYTPVGLTEEADYRTDTS    250
+                     |..|:|....|.|.||:.:.:.|:....:.||.|...|::
+AT1G73450.1       16 NNRFSNAEEALRNELSNRSDINGFLQKLMLEEKDSSKDSN     55
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G21070.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 39
+# Identity:      11/39 (28.2%)
+# Similarity:    18/39 (46.2%)
+# Gaps:           0/39 ( 0.0%)
+# Score: 39.0
+# 
+#
+#=======================================
+
+FBpp0085360      109 SNSRDTVNFDSTSTSIRMFLKNTVGLVRAGESFTSVKHL    147
+                     |:|....:|.:|.|.....|...||:|......::.||:
+AT1G21070.1       38 SSSGFGFSFATTLTGFHFALTALVGMVSNATGLSASKHV     76
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G51350.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 42
+# Identity:      11/42 (26.2%)
+# Similarity:    18/42 (42.9%)
+# Gaps:           1/42 ( 2.4%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360      254 ALNSVTCNLASSSENPLGSG-FDNSPSKISTDQEKIADTQGR    294
+                     ||.|..|...:..:..|.:| |.:....::...||:.|...|
+AT1G51350.1       89 ALGSFACGFEAGVQAVLDAGVFPHLLRLLTNTDEKVVDAGAR    130
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14950.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 12
+# Identity:       4/12 (33.3%)
+# Similarity:    10/12 (83.3%)
+# Gaps:           0/12 ( 0.0%)
+# Score: 31.0
+# 
+#
+#=======================================
+
+FBpp0085360      428 QKSEDTPDNVEY    439
+                     ::.||:|:.::|
+AT1G14950.1      122 KRYEDSPEPIKY    133
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09440.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 24
+# Identity:      10/24 (41.7%)
+# Similarity:    13/24 (54.2%)
+# Gaps:           1/24 ( 4.2%)
+# Score: 39.0
+# 
+#
+#=======================================
+
+FBpp0085360      624 KFMSEV-AAGHMRHVRQGQLFATC    646
+                     :|..|| |.||:||....:|...|
+AT1G09440.1      197 EFRVEVDAIGHVRHKNLVRLLGYC    220
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09390.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 29
+# Identity:      11/29 (37.9%)
+# Similarity:    15/29 (51.7%)
+# Gaps:           0/29 ( 0.0%)
+# Score: 40.0
+# 
+#
+#=======================================
+
+FBpp0085360      272 SGFDNSPSKISTDQEKIADTQGRPTSRNR    300
+                     |||.|:...|...|..|||:..:..|.:|
+AT1G09390.1      160 SGFRNALYMIDIGQNDIADSFSKGLSYSR    188
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G22840.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 21
+# Identity:       6/21 (28.6%)
+# Similarity:    11/21 (52.4%)
+# Gaps:           0/21 ( 0.0%)
+# Score: 29.0
+# 
+#
+#=======================================
+
+FBpp0085360      427 LQKSEDTPDNVEYAFALVSPE    447
+                     |:|.:|..|.:.|.....:|:
+AT1G22840.1       94 LKKPQDRADLIAYLKESTAPK    114
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09430.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 35
+# Identity:      10/35 (28.6%)
+# Similarity:    16/35 (45.7%)
+# Gaps:           0/35 ( 0.0%)
+# Score: 33.0
+# 
+#
+#=======================================
+
+FBpp0085360      393 KETTARSNLSRKSYRRSSPRSRSRGSRANALESPL    427
+                     |||..:::......||..|..::..:|..||...|
+AT1G09430.1      361 KETRLKASRMHIYVRRGGPNYQTGLARMRALGEEL    395
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G44010.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 17
+# Identity:       7/17 (41.2%)
+# Similarity:    10/17 (58.8%)
+# Gaps:           0/17 ( 0.0%)
+# Score: 30.0
+# 
+#
+#=======================================
+
+FBpp0085360      107 GSSNSRDTVNFDSTSTS    123
+                     |.|:|.|..|.:.|.|:
+AT1G44010.1       16 GDSSSNDEHNVNITITN     32
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G80360.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 40
+# Identity:      10/40 (25.0%)
+# Similarity:    20/40 (50.0%)
+# Gaps:           0/40 ( 0.0%)
+# Score: 41.0
+# 
+#
+#=======================================
+
+FBpp0085360      341 MVSSSGPNSSEGSRRSSKSSLRRKQSPLPNVTAKISATSN    380
+                     ::||.||:......|.:.....|:::.|.|....::|.:|
+AT1G80360.1       60 IISSYGPDEGLPELRQALLKKLREENKLTNSQVMVTAGAN     99
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G74720.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 49
+# Identity:      11/49 (22.4%)
+# Similarity:    23/49 (46.9%)
+# Gaps:           2/49 ( 4.1%)
+# Score: 39.0
+# 
+#
+#=======================================
+
+FBpp0085360      144 VKHLFHKFIKRSGSVPNSKRSLTSSCSQAVDEENPYMSKSNDTLLTDSP    192
+                     :::||.:.:|..|..||....:....|.......|.:::..:::  |||
+AT1G74720.1      334 MQYLFVRIVKARGLPPNESAYVKVRTSNHFVRSKPAVNRPGESV--DSP    380
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G65980.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 15
+# Identity:       8/15 (53.3%)
+# Similarity:     9/15 (60.0%)
+# Gaps:           0/15 ( 0.0%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360      128 LKNTVGLVRAGESFT    142
+                     ||.||..|.:|..||
+AT1G65980.1      137 LKVTVANVESGGEFT    151
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G44000.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 34
+# Identity:      11/34 (32.4%)
+# Similarity:    20/34 (58.8%)
+# Gaps:           3/34 ( 8.8%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360      203 ITPTSH-FSNCSFN-NTNYDLSNLLSDITPLTGY    234
+                     |||.:: .|:|.|. |....:||:: ::..|.|:
+AT1G44000.1       96 ITPRTYILSHCDFTANLTLTISNVI-NLDQLEGW    128
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75260.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 100
+# Identity:      27/100 (27.0%)
+# Similarity:    42/100 (42.0%)
+# Gaps:           2/100 ( 2.0%)
+# Score: 65.0
+# 
+#
+#=======================================
+
+FBpp0085360      306 FRQKLKTSRSSSP-RKSPKMSPRNKQSAPAMEPIFAMVSSSGPNSSEGSR    354
+                     ||.::....|:|| |.|...|..:....|...|.|.....:.|:.||...
+AT1G75260.1        4 FRFRIPFFSSNSPSRISSGTSSPSPPPTPPSRPPFRPAGIAQPSKSETKP     53
+
+FBpp0085360      355 RSSKSSLRRKQSPLPNVTAKISATSNSRADLAKAPKSRKETTARSNLSRK    404
+                     ::| .||.|.:|.:..:.|..||:.......|...:..|:|..:|....|
+AT1G75260.1       54 KAS-PSLSRSRSNVAALAASSSASQLPSLGAATPTRLAKQTNQQSGSPSK    102
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G54440.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 25
+# Identity:      10/25 (40.0%)
+# Similarity:    14/25 (56.0%)
+# Gaps:           0/25 ( 0.0%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360      424 ESPLQKSEDTPDNVEYAFALVSPEE    448
+                     |:|.:..|:..|..:.|.||.|.||
+AT1G54440.1      112 ETPFKLVEEVKDLEDLAAALQSVEE    136
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G67150.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 57
+# Identity:      15/57 (26.3%)
+# Similarity:    23/57 (40.4%)
+# Gaps:           3/57 ( 5.3%)
+# Score: 36.0
+# 
+#
+#=======================================
+
+FBpp0085360      124 IRMFLKNTVGLVRAGESFTSVKHLFHKFIKRSGSVPNSKRSLTSSCSQAV    173
+                     :::|..|..|::.....|.....||....|.|   ......|.:|.||.|
+AT1G67150.1      182 LQLFSVNDSGMINENTKFNHFTDLFRCVYKES---LGQNLELNNSKSQIV    228
+
+FBpp0085360      174 DEENPYM    180
+                     |.::..|
+AT1G67150.1      229 DMKSANM    235
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14970.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 49
+# Identity:      14/49 (28.6%)
+# Similarity:    21/49 (42.9%)
+# Gaps:           0/49 ( 0.0%)
+# Score: 46.0
+# 
+#
+#=======================================
+
+FBpp0085360       28 RTLKSSIKSGSSARTQPAPPVFVVVNPESSQSSLTSGQRNNTSTTSNSS     76
+                     |.|....:...|..|.|:||....:....|:||..|||:.:.:.....|
+AT1G14970.1        7 RDLSIQNRLPGSDHTTPSPPTSPHLCRSRSKSSSVSGQQQSRNVAHRLS     55
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G73470.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 61
+# Identity:      14/61 (23.0%)
+# Similarity:    26/61 (42.6%)
+# Gaps:           1/61 ( 1.6%)
+# Score: 33.0
+# 
+#
+#=======================================
+
+FBpp0085360       48 VFVVVNPESSQSSLTSGQRNNTSTT-SNSSLNQRNKEHSAARLSVTEDTA     96
+                     :::|.|..|..|.:..|...|:..: :..||.....:.....|:..:..|
+AT1G73470.1      171 LYLVDNFSSEASGVFPGMWENSEVSEAEGSLELGLSKWKVELLAALQVGA    220
+
+FBpp0085360       97 ALDSSALLQGG    107
+                     ....|.:|:||
+AT1G73470.1      221 TEVQSMILKGG    231
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G14960.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 12
+# Identity:       4/12 (33.3%)
+# Similarity:    11/12 (91.7%)
+# Gaps:           0/12 ( 0.0%)
+# Score: 34.0
+# 
+#
+#=======================================
+
+FBpp0085360      428 QKSEDTPDNVEY    439
+                     :::||:|:.:|:
+AT1G14960.1      122 KRTEDSPEPIEF    133
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G73460.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 26
+# Identity:      11/26 (42.3%)
+# Similarity:    15/26 (57.7%)
+# Gaps:           0/26 ( 0.0%)
+# Score: 45.0
+# 
+#
+#=======================================
+
+FBpp0085360      149 HKFIKRSGSVPNSKRSLTSSCSQAVD    174
+                     :||..|:|:|..|:....||.|..||
+AT1G73460.1      131 YKFTSRNGTVEPSRNIDDSSSSSLVD    156
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09450.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 43
+# Identity:      13/43 (30.2%)
+# Similarity:    20/43 (46.5%)
+# Gaps:           1/43 ( 2.3%)
+# Score: 42.0
+# 
+#
+#=======================================
+
+FBpp0085360      495 SPEGQKRLE-AKLLAKNFFMDLCVASEVRRQAQSDLHGKRRPP    536
+                     |..|.||.. |:.|:......:.|.:.|..|.|....|:::||
+AT1G09450.1       54 SVNGPKRDSWARSLSTRGRESIAVRAYVNNQPQKKAAGRKKPP     96
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G36940.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 31
+# Identity:      10/31 (32.3%)
+# Similarity:    15/31 (48.4%)
+# Gaps:           0/31 ( 0.0%)
+# Score: 35.0
+# 
+#
+#=======================================
+
+FBpp0085360       69 TSTTSNSSLNQRNKEHSAARLSVTEDTAALD     99
+                     |:||:.:|..:..||....:.....|.|.||
+AT1G36940.1      102 TTTTTRTSRGRIRKEEFGNKKIDVIDVAELD    132
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G51355.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 23
+# Identity:       9/23 (39.1%)
+# Similarity:    13/23 (56.5%)
+# Gaps:           0/23 ( 0.0%)
+# Score: 47.0
+# 
+#
+#=======================================
+
+FBpp0085360       22 RNPMPSRTLKSSIKSGSSARTQP     44
+                     :||.|..::.|.:.|.||..|.|
+AT1G51355.1       23 KNPSPPCSINSDVTSTSSTSTSP     45
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G12660.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 27
+# Identity:       7/27 (25.9%)
+# Similarity:    12/27 (44.4%)
+# Gaps:           0/27 ( 0.0%)
+# Score: 25.0
+# 
+#
+#=======================================
+
+FBpp0085360       75 SSLNQRNKEHSAARLSVTEDTAALDSS    101
+                     ::||:.::..|...|....|.....||
+AT1G12660.1       70 ANLNEIDQTGSYCELGCATDRCVSSSS     96
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75130.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 21
+# Identity:       6/21 (28.6%)
+# Similarity:    13/21 (61.9%)
+# Gaps:           0/21 ( 0.0%)
+# Score: 46.0
+# 
+#
+#=======================================
+
+FBpp0085360      451 NSQPEESSAGVEDASSKCETY    471
+                     |...:|...|:|:.:.:|:|:
+AT1G75130.1      293 NQNGQEEKLGIEEVTDECKTF    313
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G21120.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 35
+# Identity:      13/35 (37.1%)
+# Similarity:    19/35 (54.3%)
+# Gaps:           2/35 ( 5.7%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360      107 GSSNSRDTVNFDSTSTSIRMFLKNTVGLVRAGESF    141
+                     ||..|:..|||||...:....||:.|  :..|::|
+AT1G21120.1      132 GSLASQVIVNFDSVFLNTWAQLKDVV--LEGGDAF    164
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09740.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 23
+# Identity:       9/23 (39.1%)
+# Similarity:    11/23 (47.8%)
+# Gaps:           0/23 ( 0.0%)
+# Score: 31.0
+# 
+#
+#=======================================
+
+FBpp0085360       32 SSIKSGSSARTQPAPPVFVVVNP     54
+                     ||..|......||:|.|...|:|
+AT1G09740.1       37 SSDSSFVVLHVQPSPSVAAGVSP     59
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G21110.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 35
+# Identity:      13/35 (37.1%)
+# Similarity:    19/35 (54.3%)
+# Gaps:           2/35 ( 5.7%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360      107 GSSNSRDTVNFDSTSTSIRMFLKNTVGLVRAGESF    141
+                     ||..|:..|||||...:....||:.|  :..|::|
+AT1G21110.1      132 GSLASQVIVNFDSVFLNTWAQLKDVV--LEGGDAF    164
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G50900.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 31
+# Identity:       9/31 (29.0%)
+# Similarity:    16/31 (51.6%)
+# Gaps:           0/31 ( 0.0%)
+# Score: 34.0
+# 
+#
+#=======================================
+
+FBpp0085360      583 SVYNRQATSTVLVDVNTTETHTLRLRAVPER    613
+                     |:::..::|..|:......|..|:||..|.|
+AT1G50900.1       17 SLFSTTSSSPRLLSSRFLGTRNLKLRIRPAR     47
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G37000.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 26
+# Identity:       9/26 (34.6%)
+# Similarity:    14/26 (53.8%)
+# Gaps:           0/26 ( 0.0%)
+# Score: 40.0
+# 
+#
+#=======================================
+
+FBpp0085360       41 RTQPAPPVFVVVNPESSQSSLTSGQR     66
+                     |:.|.|.::||....||..|:.:..|
+AT1G37000.1       91 RSDPKPLLYVVKQTPSSYKSIAARTR    116
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G77330.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 32
+# Identity:       9/32 (28.1%)
+# Similarity:    15/32 (46.9%)
+# Gaps:           1/32 ( 3.1%)
+# Score: 34.0
+# 
+#
+#=======================================
+
+FBpp0085360       34 IKSGSSARTQPAPPVFVVVNPESSQSSLTSGQ     65
+                     :|.|.....||.|.. :|:|.......|::|:
+AT1G77330.1      201 LKDGEWIDVQPLPNA-IVINTGDQIEVLSNGR    231
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G80400.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 61
+# Identity:      20/61 (32.8%)
+# Similarity:    28/61 (45.9%)
+# Gaps:           4/61 ( 6.6%)
+# Score: 41.0
+# 
+#
+#=======================================
+
+FBpp0085360       66 RNNTSTTSNSSL-NQRNKEHSAARLSVTEDTAALDSS--ALL-QGGSSNS    111
+                     ||.|.|..:..| :..|:||.....|..|:.::..||  .|. ||.|...
+AT1G80400.1        8 RNTTLTDQDPLLMDHGNREHIVDITSNDEEDSSSRSSLDELTPQGNSHQG     57
+
+FBpp0085360      112 RDTVNFDSTST    122
+                     .:||...|.:|
+AT1G80400.1       58 EETVLSSSNAT     68
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G74740.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 15
+# Identity:       6/15 (40.0%)
+# Similarity:     9/15 (60.0%)
+# Gaps:           0/15 ( 0.0%)
+# Score: 34.0
+# 
+#
+#=======================================
+
+FBpp0085360       10 PDEIPAAPSGSRRNP     24
+                     |::....|.|.:|||
+AT1G74740.1       17 PNQKKKPPRGRQRNP     31
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G17370.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 27
+# Identity:      10/27 (37.0%)
+# Similarity:    15/27 (55.6%)
+# Gaps:           0/27 ( 0.0%)
+# Score: 36.0
+# 
+#
+#=======================================
+
+FBpp0085360       63 SGQRNNTSTTSNSSLNQRNKEHSAARL     89
+                     ||||.:||:..|..:...:.|.:.|.|
+AT1G17370.1      129 SGQREDTSSHFNIFVGDLSPEVTDAML    155
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09750.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 51
+# Identity:      13/51 (25.5%)
+# Similarity:    20/51 (39.2%)
+# Gaps:           0/51 ( 0.0%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360      167 SSCSQAVDEENPYMSKSNDTLLTDSPTRTTVPSTSQITPTSHFSNCSFNN    216
+                     |.||.|....|...|.:..|:...:...|.....:..:.:...|.||||.
+AT1G09750.1      136 SGCSNASTSFNTNSSSTYSTVSCSTAQCTQARGLTCPSSSPQPSVCSFNQ    185
+
+FBpp0085360      217 T    217
+                     :
+AT1G09750.1      186 S    186
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G49670.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 75
+# Identity:      18/75 (24.0%)
+# Similarity:    33/75 (44.0%)
+# Gaps:           3/75 ( 4.0%)
+# Score: 33.0
+# 
+#
+#=======================================
+
+FBpp0085360      506 LLAKNFFMDLCVASEVRRQAQSDLHGKRRPPSAR-LSYPVSICGACRLSG    554
+                     |..|..|:.:...||.:.|..:.|..:......: ||:|.:|...|.::.
+AT1G49670.1       26 LAEKGVFVTVADFSEEKGQETTSLVREANAKFHQGLSFPSAIFVKCDVTN     75
+
+FBpp0085360      555 -GSLSLHWITHDLDSVDHFDVFVDN    578
+                      |.|...:..| |.:....|:.::|
+AT1G49670.1       76 RGDLLAAFDKH-LATFGTLDICINN     99
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75220.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 12
+# Identity:       6/12 (50.0%)
+# Similarity:     8/12 (66.7%)
+# Gaps:           0/12 ( 0.0%)
+# Score: 34.0
+# 
+#
+#=======================================
+
+FBpp0085360      660 VDFWTDSEFLYM    671
+                     :.|..|:.||||
+AT1G75220.1      132 ISFAKDTSFLYM    143
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G65560.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 30
+# Identity:      10/30 (33.3%)
+# Similarity:    12/30 (40.0%)
+# Gaps:           3/30 (10.0%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360      507 LAKNFFMDLCVASEVRRQAQSDLHGKRRPP    536
+                     |.||.::. |  ....|....|.||...||
+AT1G65560.1       47 LVKNLYLS-C--DPYMRGRMRDFHGSYLPP     73
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G65570.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 27
+# Identity:       9/27 (33.3%)
+# Similarity:    17/27 (63.0%)
+# Gaps:           1/27 ( 3.7%)
+# Score: 37.0
+# 
+#
+#=======================================
+
+FBpp0085360      117 FDS-TSTSIRMFLKNTVGLVRAGESFT    142
+                     ||: ||.::..|..|..|:|.:.::|:
+AT1G65570.1       25 FDARTSLNVLSFGANPNGIVESAKAFS     51
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G49660.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 28
+# Identity:       8/28 (28.6%)
+# Similarity:    15/28 (53.6%)
+# Gaps:           0/28 ( 0.0%)
+# Score: 37.0
+# 
+#
+#=======================================
+
+FBpp0085360      111 SRDTVNFDSTSTSIRMFLKNTVGLVRAG    138
+                     |:|.:.....:.|:|:||.:....:.||
+AT1G49660.1       42 SKDVIYSPENNLSVRLFLPHKSTKLTAG     69
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G21100.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 35
+# Identity:      13/35 (37.1%)
+# Similarity:    19/35 (54.3%)
+# Gaps:           2/35 ( 5.7%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360      107 GSSNSRDTVNFDSTSTSIRMFLKNTVGLVRAGESF    141
+                     ||..|:..|||||...:....||:.|  :..|::|
+AT1G21100.1      132 GSLASQVIVNFDSVFLNTWAQLKDVV--LEGGDAF    164
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G29020.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 13
+# Identity:       6/13 (46.2%)
+# Similarity:     7/13 (53.8%)
+# Gaps:           0/13 ( 0.0%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360      535 PPSARLSYPVSIC    547
+                     |...|.:||..||
+AT1G29020.1      521 PAYVRTTYPFWIC    533
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G77310.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 128
+# Identity:      29/128 (22.7%)
+# Similarity:    44/128 (34.4%)
+# Gaps:           2/128 ( 1.6%)
+# Score: 44.0
+# 
+#
+#=======================================
+
+FBpp0085360      328 NKQSAPAMEPIFAMVSSSGPNSSEGSRRS-SKSSLRRKQSPLPNVTAKIS    376
+                     |.|...|..|......||||...:.|.:| .:.|........|||:||.:
+AT1G77310.1      260 NHQPMNATSPKSKAAGSSGPLHPKCSSKSVHEQSNSPPGKSRPNVSAKSA    309
+
+FBpp0085360      377 ATSNSRADLAKAPKSRKETTARSNLSRKSYRRSSPRSRSRGSRANALESP    426
+                     .......:.........|:.....:|:||.....|:..:.......||..
+AT1G77310.1      310 VVRQQVNNGMPDLDIATESKTSIQISKKSGSNGRPKYSTLEKAIRNLEKL    359
+
+FBpp0085360      427 LQKSEDTPDNVEYAFALVSPEEAGNSQP    454
+                     :.:|. .|...|...|.:|.:......|
+AT1G77310.1      360 VAESR-PPAATENQDADISSQAVKRGLP    386
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G77480.2
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 39
+# Identity:       9/39 (23.1%)
+# Similarity:    17/39 (43.6%)
+# Gaps:           0/39 ( 0.0%)
+# Score: 31.0
+# 
+#
+#=======================================
+
+FBpp0085360       15 AAPSGSRRNPMPSRTLKSSIKSGSSARTQPAPPVFVVVN     53
+                     |....|.:..:.:|.|.|::....|....|....:|::|
+AT1G77480.2       34 ATKDSSAQVKLQNRRLSSTVVFPVSGNVYPLGYYYVLLN     72
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G12610.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 41
+# Identity:      12/41 (29.3%)
+# Similarity:    18/41 (43.9%)
+# Gaps:           0/41 ( 0.0%)
+# Score: 38.0
+# 
+#
+#=======================================
+
+FBpp0085360      423 LESPLQKSEDTPDNVEYAFALVSPEEAGNSQPEESSAGVED    463
+                     |||.:.......|:|:..|...|...:|:.:...||.|..|
+AT1G12610.1      119 LESGITVLPCAGDDVDLGFGSGSGSGSGSEERNSSSYGFGD    159
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G80410.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 67
+# Identity:      14/67 (20.9%)
+# Similarity:    33/67 (49.3%)
+# Gaps:           1/67 ( 1.5%)
+# Score: 45.0
+# 
+#
+#=======================================
+
+FBpp0085360      254 ALNSVTCNLASSSENPLGSGFDNSPSKISTDQEKIADTQGRPTSRNRFSS    303
+                     |:.::.|.| ...::|..:..::..||::..|:|....|.:..:|.:..:
+AT1G80410.1      563 AIRAIRCYL-KLHDSPKSTAGEDEMSKLAPAQKKKIKKQKKAEARAKKEA    611
+
+FBpp0085360      304 KSFRQKLKTSRSSSPRK    320
+                     :|..::...|.:|...|
+AT1G80410.1      612 ESKSEESTASGASKSGK    628
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G70820.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 51
+# Identity:      10/51 (19.6%)
+# Similarity:    24/51 (47.1%)
+# Gaps:           0/51 ( 0.0%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360       17 PSGSRRNPMPSRTLKSSIKSGSSARTQPAPPVFVVVNPESSQSSLTSGQR     66
+                     |.|...|.:|:...|.:::...:|..:.:..:.||.:.:..:|.:...:.
+AT1G70820.1      299 PDGMFPNHIPNPENKIAMQHTRAAVLENSADLGVVFDTDVDRSGVVDNKG    348
+
+FBpp0085360       67 N     67
+                     |
+AT1G70820.1      349 N    349
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G70790.2
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 13
+# Identity:       6/13 (46.2%)
+# Similarity:    10/13 (76.9%)
+# Gaps:           1/13 ( 7.7%)
+# Score: 29.0
+# 
+#
+#=======================================
+
+FBpp0085360       19 GSRRNP-MPSRTL     30
+                     ||::.| ||::.|
+AT1G70790.2      172 GSKKTPWMPTKRL    184
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G12640.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 18
+# Identity:       5/18 (27.8%)
+# Similarity:    10/18 (55.6%)
+# Gaps:           0/18 ( 0.0%)
+# Score: 29.0
+# 
+#
+#=======================================
+
+FBpp0085360      663 WTDSEFLYMPTRETLTPS    680
+                     ||:.:.::..|.:...||
+AT1G12640.1      186 WTEGKGIWDTTEKRKKPS    203
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G12620.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 31
+# Identity:       8/31 (25.8%)
+# Similarity:    16/31 (51.6%)
+# Gaps:           1/31 ( 3.2%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360      520 EVRRQAQSDLHGKRRPPSARLSYPVSICGAC    550
+                     ||.::...::..:|..|.. :||.:.:.|.|
+AT1G12620.1      439 EVAKELFQEMVSRRVRPDI-VSYKILLDGLC    468
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G12630.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 37
+# Identity:       9/37 (24.3%)
+# Similarity:    16/37 (43.2%)
+# Gaps:           0/37 ( 0.0%)
+# Score: 34.0
+# 
+#
+#=======================================
+
+FBpp0085360      440 AFALVSPEEAGNSQPEESSAGVEDASSKCETYQKDCN    476
+                     |.|..:....|..:.||.....|..||..::..::|:
+AT1G12630.1       93 AAAAAAAAMKGCEEGEEEKKAKEKKSSSSKSRARECH    129
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G65610.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 18
+# Identity:       8/18 (44.4%)
+# Similarity:    11/18 (61.1%)
+# Gaps:           0/18 ( 0.0%)
+# Score: 35.0
+# 
+#
+#=======================================
+
+FBpp0085360      164 SLTSSCSQAVDEENPYMS    181
+                     |||||..|.:|:...:.|
+AT1G65610.1      589 SLTSSGGQQIDKNTMFNS    606
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75170.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 112
+# Identity:      25/112 (22.3%)
+# Similarity:    41/112 (36.6%)
+# Gaps:           4/112 ( 3.6%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360      110 NSRDTVNFDSTSTSIRMFLKNTVGLVRAGESFTS-VKHLFH-K-FIKRSG    156
+                     ::|:|:|........|:.:.......|..|:|.. ||:... | |:|...
+AT1G75170.1      164 SARETINILQNHYPERLAVAFLYNPPRLFEAFWKIVKYFIDAKTFVKVKF    213
+
+FBpp0085360      157 SVPNSKRSLTSSCSQAVDEENPYMSKSNDTLLTDSPTRTTVPSTSQITPT    206
+                     ..|.:..|: ...|...||||.........||..:....:.........|
+AT1G75170.1      214 VYPKNSESV-ELMSTFFDEENLPTEFGGKALLQYNYEEFSKQMNQDDVKT    262
+
+FBpp0085360      207 SHFSNCSFNNTN    218
+                     ::|.....:|.|
+AT1G75170.1      263 ANFWGLGHSNNN    274
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G49680.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 13
+# Identity:       5/13 (38.5%)
+# Similarity:     7/13 (53.8%)
+# Gaps:           0/13 ( 0.0%)
+# Score: 26.0
+# 
+#
+#=======================================
+
+FBpp0085360      453 QPEESSAGVEDAS    465
+                     :|.||....:|.|
+AT1G49680.1       21 EPPESDIEADDGS     33
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G50880.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 20
+# Identity:       7/20 (35.0%)
+# Similarity:    12/20 (60.0%)
+# Gaps:           0/20 ( 0.0%)
+# Score: 31.0
+# 
+#
+#=======================================
+
+FBpp0085360      501 RLEAKLLAKNFFMDLCVASE    520
+                     ::.|||.||:.....||:.:
+AT1G50880.1       32 KILAKLPAKSVLRARCVSKQ     51
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G36675.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 92
+# Identity:      19/92 (20.7%)
+# Similarity:    40/92 (43.5%)
+# Gaps:           2/92 ( 2.2%)
+# Score: 47.0
+# 
+#
+#=======================================
+
+FBpp0085360      327 RNKQSAPAMEPIFAMVSSSGPNSSEGSRRSSKSSLRRKQSPLPNVTAKIS    376
+                     |.:||..:.:.:.|.......|:......|| .|.|..:|.:.:..:..|
+AT1G36675.1      109 RMQQSGWSKDGVLAKAHELYSNAGNTGSGSS-GSKRTHESDVRDANSVGS    157
+
+FBpp0085360      377 ATSNSRADLAKAPKSRKETTARSNLSRKSYRRSSPRSRSRGS    418
+                     :.....:|:||....:|:.::..|...|.: .::.:...||:
+AT1G36675.1      158 SARPIGSDIAKKKTKKKDLSSSDNYFTKRF-EATKKEDGRGN    198
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G23180.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 23
+# Identity:       9/23 (39.1%)
+# Similarity:    13/23 (56.5%)
+# Gaps:           0/23 ( 0.0%)
+# Score: 35.0
+# 
+#
+#=======================================
+
+FBpp0085360      149 HKFIKRSGSVPNSKRSLTSSCSQ    171
+                     |..|.|:|:||..:|.:.|...|
+AT1G23180.1      799 HTAIIRAGAVPVLRRIVMSQRPQ    821
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09770.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 76
+# Identity:      12/76 (15.8%)
+# Similarity:    30/76 (39.5%)
+# Gaps:           0/76 ( 0.0%)
+# Score: 39.0
+# 
+#
+#=======================================
+
+FBpp0085360      354 RRSSKSSLRRKQSPLPNVTAKISATSNSRADLAKAPKSRKETTARSNLSR    403
+                     |..::.|||...:.||....:....:....:.::.|:.:.|......::|
+AT1G09770.1      470 REEARRSLRSGLTGLPQPKNEYQIVAQPPPEESEEPEEKIEEDMSDRIAR    519
+
+FBpp0085360      404 KSYRRSSPRSRSRGSRANALESPLQK    429
+                     :.....:.:......|:..|:..|.:
+AT1G09770.1      520 EKAEEEARQQALLKKRSKVLQRDLPR    545
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75200.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 14
+# Identity:       7/14 (50.0%)
+# Similarity:    10/14 (71.4%)
+# Gaps:           0/14 ( 0.0%)
+# Score: 36.0
+# 
+#
+#=======================================
+
+FBpp0085360      134 LVRAGESFTSVKHL    147
+                     ||.:||.|||..::
+AT1G75200.1      596 LVASGEPFTSTDYM    609
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G80390.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 15
+# Identity:       5/15 (33.3%)
+# Similarity:    11/15 (73.3%)
+# Gaps:           0/15 ( 0.0%)
+# Score: 31.0
+# 
+#
+#=======================================
+
+FBpp0085360      138 GESFTSVKHLFHKFI    152
+                     |:.||:::::|...|
+AT1G80390.1      111 GQLFTALENMFQGII    125
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G74750.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 46
+# Identity:      13/46 (28.3%)
+# Similarity:    19/46 (41.3%)
+# Gaps:           1/46 ( 2.2%)
+# Score: 37.0
+# 
+#
+#=======================================
+
+FBpp0085360      282 STDQEKIADTQGRPTSRNRFSSKSFR-QKLKTSRSSSPRKSPKMSP    326
+                     |.|:..|..:.|...:.|..:.|||. ..|.::..|..||.....|
+AT1G74750.1      193 SADRVPINSSPGTKQASNDVAGKSFEAHDLLSNNVSGKRKIMPQRP    238
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75210.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 20
+# Identity:       7/20 (35.0%)
+# Similarity:    12/20 (60.0%)
+# Gaps:           0/20 ( 0.0%)
+# Score: 41.0
+# 
+#
+#=======================================
+
+FBpp0085360      256 NSVTCNLASSSENPLGSGFD    275
+                     |.:.||.:.:.:|.:..|||
+AT1G75210.1      147 NQIFCNRSLNMKNIIAVGFD    166
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G44080.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 24
+# Identity:       9/24 (37.5%)
+# Similarity:    15/24 (62.5%)
+# Gaps:           0/24 ( 0.0%)
+# Score: 36.0
+# 
+#
+#=======================================
+
+FBpp0085360       55 ESSQSSLTSGQRNNTSTTSNSSLN     78
+                     |||:::|.|.....|.|.|:.:|:
+AT1G44080.1       93 ESSKNNLLSPLSGKTITPSDKTLD    116
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G21140.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 22
+# Identity:       5/22 (22.7%)
+# Similarity:    12/22 (54.5%)
+# Gaps:           0/22 ( 0.0%)
+# Score: 30.0
+# 
+#
+#=======================================
+
+FBpp0085360      546 ICGACRLSGGSLSLHWITHDLD    567
+                     :.|||.::.|.....:..:|::
+AT1G21140.1       71 VAGACSMAIGEFVSVYSQYDIE     92
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09780.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 21
+# Identity:       7/21 (33.3%)
+# Similarity:    12/21 (57.1%)
+# Gaps:           0/21 ( 0.0%)
+# Score: 32.0
+# 
+#
+#=======================================
+
+FBpp0085360      440 AFALVSPEEAGNSQPEESSAG    460
+                     |..|.|.::.|||:...::.|
+AT1G09780.1       68 AVGLPSEDDMGNSEVGHNALG     88
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09790.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 23
+# Identity:       6/23 (26.1%)
+# Similarity:    10/23 (43.5%)
+# Gaps:           0/23 ( 0.0%)
+# Score: 34.0
+# 
+#
+#=======================================
+
+FBpp0085360       10 PDEIPAAPSGSRRNPMPSRTLKS     32
+                     ||:.|..|..:..:...|..:.|
+AT1G09790.1      416 PDDFPRLPKSAHSSSSSSAVISS    438
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G09760.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 105
+# Identity:      25/105 (23.8%)
+# Similarity:    43/105 (41.0%)
+# Gaps:           6/105 ( 5.7%)
+# Score: 44.0
+# 
+#
+#=======================================
+
+FBpp0085360      152 IKRSGSVPNSKRSLTSSCSQAVDEEN-PYMSKSNDTLLTDSPTRTTVPST    200
+                     |:..|:..:...::..|.::.|..|| ||:::....|:.::......|:.
+AT1G09760.1       34 IENLGATEDQFDTIDLSDNEIVKLENFPYLNRLGTLLINNNRITRINPNL     83
+
+FBpp0085360      201 SQITPTSHFSNCSFNNTNYDLSNLLSDITPLTGYTPVGLTEEADYRTDTS    250
+                     .:..|..|    |...||..|.||: :|.||.....:......|......
+AT1G09760.1       84 GEFLPKLH----SLVLTNNRLVNLV-EIDPLASIPKLQYLSLLDNNITKK    128
+
+FBpp0085360      251 ANTAL    255
+                     ||..|
+AT1G09760.1      129 ANYRL    133
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G75190.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 52
+# Identity:      16/52 (30.8%)
+# Similarity:    24/52 (46.2%)
+# Gaps:           1/52 ( 1.9%)
+# Score: 45.0
+# 
+#
+#=======================================
+
+FBpp0085360      307 RQKLKTS-RSSSPRKSPKMSPRNKQSAPAMEPIFAMVSSSGPNSSEGSRR    355
+                     |:|||.. ||||.....:...::::.....:|...:.....|.||..|||
+AT1G75190.1       74 REKLKKKVRSSSGSMEKEQKMKHEELEEEEKPEMTVKVVVPPPSSRRSRR    123
+
+FBpp0085360      356 SS    357
+                     .|
+AT1G75190.1      124 KS    125
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G49730.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 29
+# Identity:       8/29 (27.6%)
+# Similarity:    16/29 (55.2%)
+# Gaps:           0/29 ( 0.0%)
+# Score: 45.0
+# 
+#
+#=======================================
+
+FBpp0085360       40 ARTQPAPPVFVVVNPESSQSSLTSGQRNN     68
+                     |..:|:|.....::|.:|.|.:|:.:..|
+AT1G49730.1      248 ASPEPSPSTVGGISPSNSDSQMTTSRSTN    276
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G79220.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 26
+# Identity:       7/26 (26.9%)
+# Similarity:    12/26 (46.2%)
+# Gaps:           0/26 ( 0.0%)
+# Score: 34.0
+# 
+#
+#=======================================
+
+FBpp0085360      480 CQDMRRAVKRSDFFKSPEGQKRLEAK    505
+                     |.....|.:..:|::..:..|||..|
+AT1G79220.1      363 CHPQDIATELMEFYEKSKNMKRLAEK    388
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FBpp0085360
+# 2: AT1G50870.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 5.0
+#
+# Length: 38
+# Identity:      11/38 (28.9%)
+# Similarity:    19/38 (50.0%)
+# Gaps:           1/38 ( 2.6%)
+# Score: 37.0
+# 
+#
+#=======================================
+
+FBpp0085360      635 RHVRQGQLFATCFAHLDARPQQRSLVDFWTDS-EFLYM    671
+                     :|:...:||....||.|...:....:|..|.: ||:|:
+AT1G50870.1      302 KHIWSCKLFLAPLAHYDRSLKTDFKLDGITHAGEFIYV    339
+
+
+#---------------------------------------
+#---------------------------------------
